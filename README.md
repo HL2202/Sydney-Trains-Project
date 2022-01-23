@@ -1,0 +1,2 @@
+# Sydney-Trains-Project
+The project is a data visualisation tool designed to provide better insight of transit services in Sydney where I live. The outcome includes transit location analysis, an analysis of network performance and train delays. The primary service is the visual display of train delays across Sydney stations in real-time. Transit location analysis involves the geographical analysis of the network with a distribution display of the stations locations. The input data is obtained from Google charts API and updated live.

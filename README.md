@@ -3,4 +3,4 @@ In light of the Covid-19 impacts on everyday life, I designed my Sydney Trains P
 
 The link to my website, SilkRoad Transit, is provided here: https://hl2202.github.io/Sydney-Trains-Project/
 
-Credit: Project completed under the supervision of Professor Jun Shen of the University of Wollongong School of Computing / IT - https://www.linkedin.com/in/jun-shen-him-his-37b95337/
+Credit: Project completed under the supervision of Professor Jun Shen of the University of Wollongong School of Computing / IT, https://www.linkedin.com/in/jun-shen-him-his-37b95337/
